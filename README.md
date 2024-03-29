@@ -8,12 +8,12 @@ St. ID: 100447226
 
 ## To Run Server
 ```
-python3 server.py
+python server.py
 ```
 
 ## To Run Client
 ```
-python3 client.py
+python client.py
 ```
 
 
