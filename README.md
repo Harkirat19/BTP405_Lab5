@@ -7,9 +7,9 @@ St. ID: 100447226
 
 
 ## To Run Server
-
+```
 python3 server.py
-
+```
 
 ## To Run Client
 ```
